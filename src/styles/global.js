@@ -10,7 +10,6 @@ export default createGlobalStyle`
 :root{
   font-family: 'Roboto', sans-serif;
   font-size: 62,5%;
-
 }
 
 body {
