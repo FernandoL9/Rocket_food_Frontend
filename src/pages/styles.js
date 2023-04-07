@@ -12,3 +12,13 @@ export const Container = styled.div`
   "content";
 
 `
+
+export const Info = styled.div `
+  display: flex;
+
+  label {
+
+    
+  }
+
+`
